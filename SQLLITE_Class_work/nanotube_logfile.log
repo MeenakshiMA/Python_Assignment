@@ -1,0 +1,184 @@
+2022-02-20 19:55:11 INFO-Connection Established!MongoClient(host=['cluster0-shard-00-02.ve6ix.mongodb.net:27017', 'cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-00.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True)
+2022-02-20 19:55:13 INFO-Database Created: carbon_nano_dbDatabase(MongoClient(host=['cluster0-shard-00-02.ve6ix.mongodb.net:27017', 'cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-00.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db')
+2022-02-20 19:55:15 INFO-Collection Created: nanotube_collectionCollection(Database(MongoClient(host=['cluster0-shard-00-02.ve6ix.mongodb.net:27017', 'cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-00.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db'), 'nanotube_collection')
+2022-02-20 19:55:32 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 19:55:44 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 19:58:18 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:08:01 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:08:07 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:09:43 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:10:34 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:11:12 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:11:22 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:16:25 INFO-Connection Established!MongoClient(host=['cluster0-shard-00-00.ve6ix.mongodb.net:27017', 'cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True)
+2022-02-20 20:16:26 INFO-Database Created: carbon_nano_dbDatabase(MongoClient(host=['cluster0-shard-00-00.ve6ix.mongodb.net:27017', 'cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db')
+2022-02-20 20:16:27 INFO-Collection Created: nanotube_collectionCollection(Database(MongoClient(host=['cluster0-shard-00-00.ve6ix.mongodb.net:27017', 'cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db'), 'nanotube_collection')
+2022-02-20 20:17:36 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:17:49 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:17:55 ERROR-Data Insertion Issue: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2022-02-20 20:21:06 INFO-Connection Established!MongoClient(host=['cluster0-shard-00-00.ve6ix.mongodb.net:27017', 'cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True)
+2022-02-20 20:21:07 INFO-Database Created: carbon_nano_dbDatabase(MongoClient(host=['cluster0-shard-00-00.ve6ix.mongodb.net:27017', 'cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db')
+2022-02-20 20:21:07 INFO-Collection Created: nanotube_collectionCollection(Database(MongoClient(host=['cluster0-shard-00-00.ve6ix.mongodb.net:27017', 'cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db'), 'nanotube_collection')
+2022-02-20 20:21:42 INFO-Data Inserted: 10721records
+2022-02-20 20:22:52 ERROR-Data Insertion Issue: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('6212557d0d8cce2584715423')}, 'errmsg': "E11000 duplicate key error collection: carbon_nano_db.nanotube_collection index: _id_ dup key: { _id: ObjectId('6212557d0d8cce2584715423') }", 'op': {'m': 2, 'n': 1, 'u': '0,679005', 'v': '0,701318', 'w': '0,017033', "u'": '0,721039', "v'": '0,730232', "w'": '0,017014', '_id': ObjectId('6212557d0d8cce2584715423')}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+2022-02-20 20:23:19 INFO-Connection Established!MongoClient(host=['cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-00.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True)
+2022-02-20 20:23:20 INFO-Database Created: carbon_nano_dbDatabase(MongoClient(host=['cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-00.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db')
+2022-02-20 20:23:20 INFO-Collection Created: nanotube_collectionCollection(Database(MongoClient(host=['cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-00.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db'), 'nanotube_collection')
+2022-02-20 20:23:25 INFO-Data Inserted: 10721records
+2022-02-20 20:23:35 INFO-Data Inserted: 1records
+2022-02-20 20:24:28 INFO-Data Inserted: 1records
+2022-02-20 20:24:30 INFO-Data Inserted: 1records
+2022-02-20 20:24:32 INFO-Data Inserted: 1records
+2022-02-20 20:25:32 INFO-Data Inserted: 1records
+2022-02-20 20:27:03 ERROR-Data Insertion Issue: E11000 duplicate key error collection: carbon_nano_db.nanotube_collection index: _id_ dup key: { _id: ObjectId('62125664b1a91f63aa7d916b') }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('62125664b1a91f63aa7d916b')}, 'errmsg': "E11000 duplicate key error collection: carbon_nano_db.nanotube_collection index: _id_ dup key: { _id: ObjectId('62125664b1a91f63aa7d916b') }"}
+2022-02-20 20:30:48 INFO-Finding the records for query: {'m': '1'}
+2022-02-20 20:35:15 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-20 20:35:45 INFO-Finding the records for query: {'m': 4}
+2022-02-20 20:36:10 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-23 19:13:16 INFO-Connection Established!MongoClient(host=['cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017', 'cluster0-shard-00-00.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True)
+2022-02-23 19:13:18 INFO-Database Created: carbon_nano_dbDatabase(MongoClient(host=['cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017', 'cluster0-shard-00-00.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db')
+2022-02-23 19:13:18 INFO-Collection Created: nanotube_collectionCollection(Database(MongoClient(host=['cluster0-shard-00-01.ve6ix.mongodb.net:27017', 'cluster0-shard-00-02.ve6ix.mongodb.net:27017', 'cluster0-shard-00-00.ve6ix.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-tbpygf-shard-0', tls=True), 'carbon_nano_db'), 'nanotube_collection')
+2022-02-23 19:13:34 INFO-Data Inserted: 10721records
+2022-02-23 19:13:40 INFO-Data Inserted: 1records
+2022-02-23 19:14:10 INFO-Data Inserted: 1records
+2022-02-23 19:14:22 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-23 19:15:46 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:17:47 INFO-Record Deleted
+2022-02-23 19:17:56 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:18:00 INFO-Record Deleted
+2022-02-23 19:18:02 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:18:03 INFO-Record Deleted
+2022-02-23 19:18:07 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:18:08 INFO-Record Deleted
+2022-02-23 19:18:13 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:18:15 INFO-Record Deleted
+2022-02-23 19:18:20 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:18:21 INFO-Record Deleted
+2022-02-23 19:18:24 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:18:27 INFO-Record Deleted
+2022-02-23 19:18:28 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:19:09 INFO-Data Inserted: 1records
+2022-02-23 19:19:13 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:20:03 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-23 19:21:49 INFO-Record Deleted
+2022-02-23 19:21:51 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:23:59 INFO-Data Inserted: 1records
+2022-02-23 19:24:14 INFO-Data Inserted: 1records
+2022-02-23 19:24:22 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:24:38 INFO-Data Inserted: 1records
+2022-02-23 19:24:38 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:24:46 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-23 19:29:18 INFO-Data Updated
+2022-02-23 19:31:04 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:31:38 INFO-Data Updated
+2022-02-23 19:31:39 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:31:58 INFO-Data Inserted: 1records
+2022-02-23 19:31:59 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:32:10 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:32:58 INFO-Record Deleted
+2022-02-23 19:33:01 INFO-Data Updated
+2022-02-23 19:33:09 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:33:14 INFO-Record Deleted
+2022-02-23 19:33:16 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:33:18 INFO-Record Deleted
+2022-02-23 19:33:19 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:33:21 INFO-Record Deleted
+2022-02-23 19:33:22 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:33:33 INFO-Data Inserted: 1records
+2022-02-23 19:33:34 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:33:36 INFO-Data Inserted: 1records
+2022-02-23 19:33:36 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:33:40 INFO-Data Inserted: 1records
+2022-02-23 19:33:40 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:33:42 INFO-Data Inserted: 1records
+2022-02-23 19:33:43 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:33:46 INFO-Data Inserted: 1records
+2022-02-23 19:33:47 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:33:54 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-23 19:34:05 INFO-Data Updated
+2022-02-23 19:34:07 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:34:24 INFO-Data Updated
+2022-02-23 19:34:43 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:35:05 INFO-Record Deleted
+2022-02-23 19:35:07 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:35:08 INFO-Record Deleted
+2022-02-23 19:35:10 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:35:13 INFO-Record Deleted
+2022-02-23 19:35:15 INFO-Data Updated
+2022-02-23 19:35:17 INFO-Record Deleted
+2022-02-23 19:35:18 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:35:20 INFO-Record Deleted
+2022-02-23 19:35:21 INFO-Data Updated
+2022-02-23 19:35:23 INFO-Record Deleted
+2022-02-23 19:35:25 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:35:32 INFO-Data Inserted: 1records
+2022-02-23 19:35:34 INFO-Data Inserted: 1records
+2022-02-23 19:35:36 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:35:38 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-23 19:35:43 INFO-Data Inserted: 1records
+2022-02-23 19:35:44 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:35:46 INFO-Data Inserted: 1records
+2022-02-23 19:35:47 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:35:49 INFO-Data Inserted: 1records
+2022-02-23 19:35:50 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:35:54 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-23 19:36:05 INFO-Data Updated
+2022-02-23 19:36:06 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:37:36 INFO-Data Updated
+2022-02-23 19:37:49 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:38:18 INFO-Data Updated
+2022-02-23 19:38:19 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:38:32 INFO-Data Updated
+2022-02-23 19:38:32 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:39:37 INFO-Record Deleted
+2022-02-23 19:39:42 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:39:52 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:39:55 INFO-Data Inserted: 1records
+2022-02-23 19:39:56 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:39:59 INFO-Data Inserted: 1records
+2022-02-23 19:39:59 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:40:02 INFO-Data Inserted: 1records
+2022-02-23 19:40:02 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:40:04 INFO-Data Inserted: 1records
+2022-02-23 19:40:05 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:40:11 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-23 19:40:17 INFO-Data Updated
+2022-02-23 19:40:17 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:40:34 INFO-Data Updated
+2022-02-23 19:40:34 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:40:52 INFO-Data Updated
+2022-02-23 19:40:53 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:41:26 INFO-Record Deleted
+2022-02-23 19:41:30 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:41:39 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:42:04 INFO-Record Deleted
+2022-02-23 19:42:09 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:42:21 INFO-Record Deleted
+2022-02-23 19:42:25 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:42:32 INFO-Data Inserted: 1records
+2022-02-23 19:42:37 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:42:44 INFO-Data Inserted: 1records
+2022-02-23 19:42:45 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:42:49 INFO-Data Inserted: 1records
+2022-02-23 19:42:49 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:42:53 INFO-Data Inserted: 1records
+2022-02-23 19:42:53 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:42:56 INFO-Data Inserted: 1records
+2022-02-23 19:42:56 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:43:02 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:43:07 INFO-Finding the records for query: {'m': {'$lte': 4}}
+2022-02-23 19:43:16 INFO-Data Updated
+2022-02-23 19:43:17 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:43:20 INFO-Data Updated
+2022-02-23 19:43:21 INFO-Finding the records for query: {'m': {'$lte': 1}, 'n': {'$lte': 1}}
+2022-02-23 19:45:05 INFO-Record Deleted
+2022-02-23 19:45:20 INFO-Finding the records for query: {'m': {'$lte': 1}}
+2022-02-23 19:46:00 INFO-Record Deleted
+2022-02-23 19:46:54 INFO-Finding the records for query: {'m': {'$lte': 1}}
+2022-02-23 19:47:40 INFO-Finding the records for query: {'m': 1}
+2022-02-23 19:48:09 INFO-Finding the records for query: {'m': {'$lte': 2}}
+2022-02-23 19:49:09 INFO-Finding the records for query: {'v': {'$in': ['0,287448', '0,489336', '0,665708']}}
+2022-02-23 19:50:39 INFO-Finding the records for query: {'v': {'$in': ['0,543401', '0,704436', '0,485609']}}
+2022-02-23 19:52:30 INFO-Displaying the top 10records
+2022-02-23 19:53:34 INFO-Displaying the top 20records
+2022-02-23 19:54:05 INFO-Displaying the top 5records
